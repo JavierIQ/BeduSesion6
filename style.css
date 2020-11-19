@@ -1,0 +1,27 @@
+.navbar{
+    color: #025157;
+}
+
+.navbar-nav .nav-item .nav-link{
+    font-family: sans-serif;
+    color: #025157;
+}
+
+.btn{
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #025157;
+}
+
+.Container-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.Container-title > h1{
+    color: #025157;
+    
+}
